@@ -1,0 +1,10 @@
+ef5827cc746cd2e1d75ee2d8f5fafb37 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+3ac72cb44f3c38a5a1ef3fd629121e82 *R/dic.R
+c1f0631bc8c8ea7e8cf8bb3142497586 *data/datalist
+1ddca04f2e8a84be89ac469e016caf3b *data/en.rda
+7afb27c91995a1ed25ef1195cc081469 *data/fa.rda
+7484d5abdfdf9b09e25c23a858ea212d *man/dic.Rd
+de4249a402fba5614117dcfcbc75ce5d *man/dictionary-package.Rd
+502ecf0e08776d07b6bc8edc984cc4ab *man/en.Rd
+8dc650397ddd73206b7ed0b3b682797b *man/fa.Rd
